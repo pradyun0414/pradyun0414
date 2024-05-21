@@ -4,7 +4,7 @@
 - I'm currently working on developing some pretty cool stuff.
 - Languages: C, C++, Java, Python, C#, HTML, CSS, JavaScript, R
 - How to reach me: pradyunbhaskar@utexas.edu
-- LinkedIn: [https://www.linkedin.com/in/pradyunbhaskar/](url)
+- LinkedIn: https://www.linkedin.com/in/pradyunbhaskar/
   
 <!--
 **pradyun0414/pradyun0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
