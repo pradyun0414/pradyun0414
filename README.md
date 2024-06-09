@@ -2,7 +2,7 @@
 
 - I'm Pradyun Bhaskar, an ECB student at UT Austin.
 - I'm currently working on developing some pretty cool stuff.
-- Languages: C, C++, Java, Python, C#, HTML, CSS, JavaScript, R
+- Languages: C, C++, HTML, CSS, JavaScript, Node.js, Assembly, Java, Python, C#, SQL, R
 - How to reach me: pradyunbhaskar@utexas.edu
 - LinkedIn: https://www.linkedin.com/in/pradyunbhaskar/
   
